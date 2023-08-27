@@ -2,4 +2,5 @@
 
 This repository is created to test commands
 
-- Step1. Clone the repository
+- This changem is available only in branch
+
